@@ -2,7 +2,7 @@
 
 이 프로젝트는 윈도우의 `그림판`과 같은 기능을 제공하는 리눅스 데스크톱 프로그램입니다.
 
-기존 프로젝트에 헌글 번역을 추가하고 하모니카 OS (<=4.0) 에서 사용할 수 있도록 빌드한 버전입니다.
+기존 프로젝트에 헌글 번역을 추가하고 하모니카 OS (>=4.0) 에서 사용할 수 있도록 빌드한 버전입니다.
 
 * upstream : https://github.com/maoschanz/drawing
 * 한국어 번역 PR : https://github.com/maoschanz/drawing/pull/381
