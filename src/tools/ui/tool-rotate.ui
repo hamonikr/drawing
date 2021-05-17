@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface domain="drawing">
+
+  <menu id="options-menu">
+    <section>
+      <!-- <attribute name="display-hint">horizontal-buttons</attribute> -->
+      <item>
+        <attribute name="label" translatable="yes">Rotate left</attribute>
+        <attribute name="action">win.rotate-counter-cw</attribute>
+        <attribute name="verb-icon">object-rotate-left-symbolic</attribute>
+      </item>
+      <item>
+        <attribute name="label" translatable="yes">Rotate right</attribute>
+        <attribute name="action">win.rotate-clockwise</attribute>
+        <attribute name="verb-icon">object-rotate-right-symbolic</attribute>
+      </item>
+    </section>
+    <section>
+      <!-- <attribute name="display-hint">horizontal-buttons</attribute> -->
+      <item>
+        <attribute name="label" translatable="yes">Flip horizontally</attribute>
+        <attribute name="action">win.rotate-flip-h</attribute>
+        <attribute name="verb-icon">object-flip-horizontal-symbolic</attribute>
+      </item>
+      <item>
+        <attribute name="label" translatable="yes">Flip vertically</attribute>
+        <attribute name="action">win.rotate-flip-v</attribute>
+        <attribute name="verb-icon">object-flip-vertical-symbolic</attribute>
+      </item>
+    </section>
+    <section>
+      <item>
+        <attribute name="label" translatable="yes">Cancel</attribute>
+        <attribute name="action">win.force_selection</attribute>
+      </item>
+      <item>
+        <attribute name="label" translatable="yes">Apply</attribute>
+        <attribute name="action">win.apply_transform</attribute>
+      </item>
+    </section>
+  </menu>
+
+</interface>

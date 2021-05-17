@@ -1,0 +1,40 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its" type="guide"
+      id="index">
+
+  <info>
+    <title type="text">Drawing</title>
+    <revision pkgversion="0.6.0" date="2020-09-01"/>
+    <credit type="author">
+      <name>Romain F. T.</name>
+      <years>2018-2020</years>
+    </credit>
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+  <title>
+    <media type="image" mime="image/png" height="48" its:translate="no"
+           src="figures/icon.png" />
+    Drawing
+  </title>
+
+  <p>"Drawing" is a basic drawing application for the GNOME desktop.</p>
+  <p>You can edit or create pictures (PNG, JPEG or BMP) using tools, which can
+  be chosen in the side pane. More options are available in the bottom bar,
+  such as the tool size and color.</p>
+
+  <section id="main" style="2column">
+    <title>General</title>
+  </section>
+
+  <section id="tools" style="2column">
+    <title>Tools</title>
+    <p>At any moment, the window's subtitle should provide useful informations
+    about how to use the active tool.</p>
+  </section>
+
+  <section id="news">
+    <title>Release notes history</title>
+  </section>
+
+</page>
