@@ -13,14 +13,14 @@
 하모니카 사용자는 다음과 같이 설치할 수 있습니다.
 ```
 sudo apt update 
-sudo apt install drawing=0.8.1hamonikr1
+sudo apt install drawing=0.8.1hamonikr2
 ```
 ## Install on Ubuntu(>=20.04)
 우분투 사용자는 다음과 같이 설치할 수 있습니다.
 ```
 wget -qO- https://pkg.hamonikr.org/add-hamonikr.apt | sudo -E bash -
 
-sudo apt install drawing=0.8.1hamonikr1
+sudo apt install drawing=0.8.1hamonikr2
 ```
 
 

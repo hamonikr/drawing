@@ -1,3 +1,13 @@
+drawing (0.8.1hamonikr2) jin; urgency=low
+
+  * Fixed translation
+   - Remove "translator-credits"
+   - Fixed "elementary OS"
+   - Change "Paint;그림판;페인트;스케치;"
+   - Changed underscores text for keyboard
+
+ -- HamoniKR <pkg@hamonikr.org>  Tue, 18 May 2021 09:26:09 +0900
+
 drawing (0.8.1hamonikr1) jin; urgency=low
 
   * Add Korean translation
